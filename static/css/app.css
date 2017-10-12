@@ -9,10 +9,16 @@
     margin-bottom: 10px;
     border: solid #efefef 1px;
     border-radius: 6px;
-
+}
+.uband-user-item-img{
+	width: 68px;
+	height: 68px;
 }
 .uband-user-name{
 	font-size: 15px;
+}
+.uband-user-desc{
+	font-size: 13px;
 }
 .uband-logo{
 	width: 80px;
@@ -21,3 +27,72 @@
 	margin: 0 auto;
 	padding-top: 5px;
 }
+.uband-user-label
+{
+	width: 50px;
+	height: 17px;
+	background-color: #FF4060;
+	border-radius: 8px;
+	font-size: 10px;
+    color:#fff;
+    padding: 3px;
+}
+.uband-user-checkins{
+	width: 70px;
+}
+.uband-user-checkins > p{
+	font-size: 10px;
+	text-align: right;
+	color: #828282;
+	margin-top: -34px;
+}
+
+/*detail's css*/
+
+.details-head{
+	width: 100%;
+	height: 206px;
+	background-image: url("../img/details-background.png");
+	background-size:103%, 406px;
+
+}
+.details-head-img-page{
+	width: 100%;
+	height: 108px;
+}
+.details-head-img{
+	width: 68px;
+	height: 68px;
+	border-radius: 50%;
+	margin: 0 auto;
+	display: block;
+	margin-top: -10px;
+}
+.back-icon{
+	width: 10px;
+	height: 10px;
+	display: block;
+	padding-left: 15px;
+    padding-top: 10px;
+}
+.details-head-desc-page{
+	width: 100%;
+	height: 98px;
+	background-color: #fff;
+	opacity: 0.5;
+}
+.details-head-name{
+	font-size: 18px;
+	text-align: center;
+	padding-top: 6px;
+}
+.details-head-desc{
+	font-size: 13px;
+	/*text-align: center;*/
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 13px;
+}
+
+
+
