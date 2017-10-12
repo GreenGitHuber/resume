@@ -1,0 +1,22 @@
+[
+{
+	"student_num":"1",
+	"name":"姜小白",
+	"desc":"行动矮人",
+	"tags":["中二","白日梦想家"],
+	"checkins":1,
+	"head_icon":"/static/img/uband-jiang.jpg",
+	"detail_des":"我是一个粉刷匠，粉刷本领强！我是一个粉刷匠，粉刷本领强！我是一个粉刷匠，粉刷本领强！我是一个粉刷"
+
+},
+{
+	"student_num":"2",
+	"name":"姜大云",
+	"desc":"行动矮人",
+	"tags":["中二","白日梦想家"],
+	"checkins":1,
+	"head_icon":"/static/img/uband-jiang.jpg",
+	"detail_des":"我是一个zhuzhu，粉刷本领强！我是一个zhuzhu，粉刷本领强！我是一个zhuzhu，粉刷本领强！我是一个粉刷"
+
+}
+]
